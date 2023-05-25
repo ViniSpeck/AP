@@ -1,2 +1,2 @@
 # AP
-8th semester subject - Predictive Analysis
+8th Semester Subject - Predictive Analysis
