@@ -5,6 +5,8 @@ This project is meant for processing raw e-mails and creating features for a mod
 
 To run the script:
 
-Clone this repo on your computer
+Clone this repo
 
 Unzip the raw_data folder
+
+Run etl.py
